@@ -294,7 +294,6 @@ Resources:
                   - s3:GetObject
                   - s3:GetObjectTagging
                   - s3:ListBucket
-                  - s3:*
                   - kms:DescribeKey
                   - sts:DecodeAuthorizationMessage
                 Resource:
